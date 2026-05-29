@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pricilia 👋
 
-<!--
-**prcliaprianaa/prcliaprianaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 S1 Teknik Komputer @ Telkom University (Konsentrasi: AI)  
+🔬 Lab Assistant at i-SMILE Lab  
+📊 Aspiring Data Analyst | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **Data:** pandas, numpy, matplotlib, seaborn
+- **Tools:** Google Colab, Jupyter Notebook, Git
+- **Currently Learning:** TensorFlow, Scikit-Learn, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: [pricilia-apriana](https://linkedin.com/in/pricilia-apriana-975366280)
+- Email: priciliaapriana01@gmail.com
