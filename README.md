@@ -1,7 +1,7 @@
 # Hi, I'm Pricilia 👋
 
-S1 Teknik Komputer @ Telkom University (Konsentrasi: AI)  
-Lab Assistant at i-SMILE Lab  
+S1 Teknik Komputer — Telkom University (Konsentrasi: AI)  
+Lab Assistant at Intelligent System and Machine Learning Laboratory (I-SMILE Lab)  
 Aspiring Data Analyst | AI/ML Enthusiast
 
 ## Tech Stack
